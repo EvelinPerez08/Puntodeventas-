@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\EjemploGIT8A\EjemploGIT8A\bin\Debug\EjemploGIT8A.exe.config
+C:\Users\Lenovo\source\repos\EjemploGIT8A\EjemploGIT8A\bin\Debug\EjemploGIT8A.exe
+C:\Users\Lenovo\source\repos\EjemploGIT8A\EjemploGIT8A\bin\Debug\EjemploGIT8A.pdb
+C:\Users\Lenovo\source\repos\EjemploGIT8A\EjemploGIT8A\obj\Debug\EjemploGIT8A.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\EjemploGIT8A\EjemploGIT8A\obj\Debug\EjemploGIT8A.Form1.resources
+C:\Users\Lenovo\source\repos\EjemploGIT8A\EjemploGIT8A\obj\Debug\EjemploGIT8A.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\EjemploGIT8A\EjemploGIT8A\obj\Debug\EjemploGIT8A.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\EjemploGIT8A\EjemploGIT8A\obj\Debug\EjemploGIT8A.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EjemploGIT8A\EjemploGIT8A\obj\Debug\EjemploGIT8A.exe
+C:\Users\Lenovo\source\repos\EjemploGIT8A\EjemploGIT8A\obj\Debug\EjemploGIT8A.pdb
